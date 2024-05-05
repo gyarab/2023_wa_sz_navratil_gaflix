@@ -1,2 +1,3 @@
-# 2023_wa_sa_bogdanov_gaflix
-- aplikace, diky ktere se naucim s frameworkem DJango
+# 2023_wa_sz_navratil_gaflix
+- moje prvni strank as Django frameworkem
+- 
