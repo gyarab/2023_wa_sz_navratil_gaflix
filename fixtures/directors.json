@@ -1,0 +1,22 @@
+[
+  {
+    "model": "filmy.director",
+    "pk": 3,
+    "fields": {
+      "name": "Steven Spielberg",
+      "birth_year": 1946,
+      "description": "Stiephen spielberg je americky reziser ktery natocil treba film romeo a julie nebo prelet nad kukaccim hnizdem",
+      "main_picture": "Screenshot_2024-01-23_181921.png"
+    }
+  },
+  {
+    "model": "filmy.director",
+    "pk": 4,
+    "fields": {
+      "name": "charlie chuplin",
+      "birth_year": 1942,
+      "description": "Charlie chuplin byl reziser a herec jenz zil v roce 1592 a tocil starodavne neme cernobile filmy",
+      "main_picture": "Screenshot_2023-11-03_161539.png"
+    }
+  }
+]

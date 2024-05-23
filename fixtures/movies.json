@@ -1,0 +1,35 @@
+[
+  {
+    "model": "filmy.movie",
+    "pk": 1,
+    "fields": {
+      "name": "Avengers",
+      "year": 2022,
+      "footage": 127,
+      "description": "Film avengers je akcni film ktery uz je 10 let stary. Je to o zachrane sveta pred mimozemstanama",
+      "main_picture": ""
+    }
+  },
+  {
+    "model": "filmy.movie",
+    "pk": 2,
+    "fields": {
+      "name": "Predator",
+      "year": 1986,
+      "footage": 106,
+      "description": "Predator je americky film ktery je o vojacich ktery se snazi zachranit sama sebe pred mimozemstanem ktery je chce zabit",
+      "main_picture": ""
+    }
+  },
+  {
+    "model": "filmy.movie",
+    "pk": 3,
+    "fields": {
+      "name": "Jurský park",
+      "year": 1993,
+      "footage": 122,
+      "description": "Jurský park je americký vědeckofantastický film režiséra Stevena Spielberga z roku 1993. Autorem knižní předlohy je známý americký spisovatel Michael Crichton, který svůj román vydal roku 1990. Práva ke zfilmování nakonec získali mezi mnoha dalšími zájemci Universal Studios a sám Crichton byl najat jako scenárista.",
+      "main_picture": ""
+    }
+  }
+]

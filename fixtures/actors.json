@@ -1,0 +1,20 @@
+[
+  {
+    "model": "filmy.actor",
+    "pk": 1,
+    "fields": {
+      "name": "Tom Holland",
+      "birth_year": null,
+      "description": "Thoma Holland je mlady americky herec ktey hral napriklad ve filmu avengers nebo ve filmu sperdman homecoming."
+    }
+  },
+  {
+    "model": "filmy.actor",
+    "pk": 2,
+    "fields": {
+      "name": "Tom Cruise",
+      "birth_year": null,
+      "description": "Tom cruise je americky herec a clen kultu scientologie"
+    }
+  }
+]
